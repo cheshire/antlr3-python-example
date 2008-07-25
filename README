@@ -2,7 +2,8 @@ A simple calculator in Python, based on Definite ANTLR Reference by
 Terrence Parr.
 
 Running:
-1. get into antlr3-python-example
-2. chmod +xm buildAndRun.sh
+$ cd antlr3-python-example
+$ chmod +x buildAndRun.sh
+$ ./buildAndRun.sh
 
 You're done. see buildAndRun.sh for example usage.
